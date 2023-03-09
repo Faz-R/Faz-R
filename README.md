@@ -43,3 +43,5 @@ HTML, SCSS, TypeScript, SPA<br></li>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=faz-r&langs_count=8)](https://github.com/faz-r/github-readme-stats)
 
 <img src="https://www.codewars.com/users/rsschool_1507f53bc8a5e96a/badges/micro" title="Codewars" alt="Codewars" width="200">
+
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExMDdkOGQzMWIxOTk0Nzg4ZDlkNWZlZTVkYTUxMWJjZDM1M2JjNzE0MyZjdD1z/YYQ6sw8jt2HRxX4uVi/giphy.gif" width="150px">
