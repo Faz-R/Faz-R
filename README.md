@@ -12,10 +12,12 @@
 
 
 <ul>
+  <li><a href="https://viewpoint-site.netlify.app/">GraphQL App</a><br>
+React, MUI, Apollo GraphQL, Firebase, i18next, TypeScript, SPA<br></li>
 <li><a href="https://viewpoint-site.netlify.app/">Viewpoint</a><br>
-HTML, SCSS, TypeScript, SPA<br></li>
+React, Redux, SCSS, ChartJS, TypeScript, SPA<br></li>
 <li><a href="https://faz-online-store.netlify.app/">Online store</a><br>
-HTML, SCSS, TypeScript, SPA<br></li>
+React, Redux, CSS, TypeScript, SPA<br></li>
 </ul>
 
 ---
