@@ -12,7 +12,7 @@
 
 
 <ul>
-  <li><a href="https://viewpoint-site.netlify.app/">GraphQL App</a><br>
+  <li><a href="https://graphql-rs-app.netlify.app/">GraphQL App</a><br>
 React, MUI, Apollo GraphQL, Firebase, i18next, TypeScript, SPA<br></li>
 <li><a href="https://viewpoint-site.netlify.app/">Viewpoint</a><br>
 React, Redux, SCSS, ChartJS, TypeScript, SPA<br></li>
